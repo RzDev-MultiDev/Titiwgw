@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/docs",
+      "destination": "/blog.html"
+    },
+    {
+      "source": "/Games/Tebak-Kata",
+      "destination": "/games/tebak-kata.html"
+    },
+    {
+      "source": "/Ucapan/Hari-Ibu",
+      "destination": "/ucapan/mothersDay.html"
+    }
+  ]
+}
